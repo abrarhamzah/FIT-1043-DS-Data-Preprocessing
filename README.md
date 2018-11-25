@@ -14,7 +14,7 @@ Perform data preprocessing method then explore and analyse Big Data using R and 
   8. DoyouthinkwehavecapturedallthereferencestoDonald?Whatother strings might we need to try? What problems might we face?
   
 - Part B: Graphing the Data in R
-  1.How many times does the term ‘Obama’ appear in tweets?
+  1. How many times does the term ‘Obama’ appear in tweets?
   2. You will need to write a format string, starting with “%a %b“ to tell the function how to parse the particular date/time format in your file. What format string do you need to use?
   3. Onceyou’veconvertedthetimestamps,usethehist()functiontoplotthe data. 
   4. The plot has a bit of an unusual shape. Can you see a pattern before Feb 15 and what happens after that?
